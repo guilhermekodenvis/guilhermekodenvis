@@ -1,4 +1,4 @@
-# Please, call me by "technology's magician" 🧙‍♂️
+# Please, call me by "technology's wizard" 🧙‍♂️
 
 ### I'm still a DEV. But not forever.
 

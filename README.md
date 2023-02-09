@@ -9,5 +9,4 @@ And after almost 6 years coding professionally, I just have to say one thing: it
 Thanks folks! SeeYa!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guisartori)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guisartori&hide=contribs,prs)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guisartori&show_icons=true&theme=dracula)
